@@ -1,8 +1,8 @@
-package com.techronyms.entities;
+package com.techronymsservice.model;
 
 public enum GlossaryItemType {
     ACRONYM_ABBREVIATION,
-    TECH_JARGON;
+    JARGON;
 
     private GlossaryItemType() {}
 }

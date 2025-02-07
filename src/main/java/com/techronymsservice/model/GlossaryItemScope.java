@@ -1,4 +1,4 @@
-package com.techronyms.entities;
+package com.techronymsservice.model;
 
 public enum GlossaryItemScope {
     COMPANY,

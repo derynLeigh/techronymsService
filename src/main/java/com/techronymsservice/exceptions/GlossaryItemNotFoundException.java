@@ -1,4 +1,7 @@
 package com.techronymsservice.exceptions;
 
-public class GlossaryItemNotFoundException {
+public class GlossaryItemNotFoundException extends RuntimeException {
+    public GlossaryItemNotFoundException(String message) {
+        super(message);
+    }
 }

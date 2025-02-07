@@ -1,4 +1,4 @@
-package com.techronyms.config;
+package com.techronymsservice.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
